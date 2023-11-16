@@ -22,3 +22,10 @@ A list of awesome papers and cool resources on awesome reliable recommendation s
 ### Fairness
 
 ### Explainability
+- Cognition-aware Knowledge Graph Reasoning for Explainable Recommendation [[WSDM 2023](http://playbigdata.ruc.edu.cn/dou/publication/2023_wsdm_congnition.pdf)]
+- Generating Explainable Product Comparisons for Online Shopping [[WSDM 2023](https://assets.amazon.science/5d/03/2f7e2ab8407cb37e679211c2c677/generating-explainable-product-comparisons-for-online-shopping.pdf)]
+- Integrating the ACT-R Framework with Collaborative Filtering for Explainable Sequential Music Recommendation [[RecSys 2023](https://dl.acm.org/doi/pdf/10.1145/3604915.3608838)]
+- Stability of Explainable Recommendation [[RecSys 2023](https://dl.acm.org/doi/pdf/10.1145/3604915.3608853)]
+- RCENR: A Reinforced and Contrastive Heterogeneous Network Reasoning Model for Explainable News Recommendation [[SIGIR 2023](https://dl.acm.org/doi/pdf/10.1145/3539618.3591753)]
+  
+
