@@ -24,6 +24,8 @@ A list of awesome papers and cool resources on awesome reliable recommendation s
 - Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning [[CIKM 2023](https://weitianxin.github.io/files/CIKM23.pdf)]
 - CDR: Conservative Doubly Robust Learning for Debiased Recommendation [[CIKM 2023](https://arxiv.org/pdf/2308.08461.pdf)][[Code](https://github.com/CrazyDumpling/CDR_CIKM2023)]
 - Self-Guided Learning to Denoise for Robust Recommendation [[SIGIR 2022](https://arxiv.org/pdf/2204.06832.pdf)][[Code](https://github.com/zealscott/SGDL)]
+- Towards Unbiased and Robust Causal Ranking for Recommender Systems [[SIGIR 2022](https://dl.acm.org/doi/pdf/10.1145/3488560.3498521)]
+- Learning Robust Recommenders through Cross-Model Agreement [[WWW 2022](https://dl.acm.org/doi/pdf/10.1145/3485447.3512202)][[Code](https://github.com/wangyu-ustc/DeCA)]
 
 
 ### Fairness
